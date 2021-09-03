@@ -1,0 +1,87 @@
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Buscador.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Cliente.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Empleado.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.FacturaCliente.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.FacturaProveedor.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.LogIn.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.NotaDeCredito.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.OrdenDeCompra.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.OrdenDePago.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Principal.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Producto.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Properties.Resources.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Proveedor.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.RemitoProveedor.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.SolicitudDeProducto.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.SolicitudDeInsumos.resources
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\bin\Debug\VistaDeUsuario.exe.config
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\bin\Debug\VistaDeUsuario.exe
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\bin\Debug\VistaDeUsuario.pdb
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\bin\Debug\LogicaDeNegocio.dll
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\bin\Debug\UIDC.dll
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\bin\Debug\AccesoADatos.dll
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\bin\Debug\LogicaDeNegocio.pdb
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\bin\Debug\AccesoADatos.pdb
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.csproj.CopyComplete
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.exe
+C:\Users\rodri\source\repos\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.pdb
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\bin\Debug\VistaDeUsuario.exe.config
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\bin\Debug\VistaDeUsuario.exe
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\bin\Debug\VistaDeUsuario.pdb
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\bin\Debug\LogicaDeNegocio.dll
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\bin\Debug\AccesoADatos.dll
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\bin\Debug\LogicaDeNegocio.pdb
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\bin\Debug\AccesoADatos.pdb
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.csprojAssemblyReference.cache
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Buscador.resources
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Cliente.resources
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Empleado.resources
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.FacturaCliente.resources
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.FacturaProveedor.resources
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.LogIn.resources
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.NotaDeCredito.resources
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.OrdenDeCompra.resources
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.OrdenDePago.resources
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Principal.resources
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Producto.resources
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Properties.Resources.resources
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Proveedor.resources
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.RemitoProveedor.resources
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.SolicitudDeCompra.resources
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.csproj.GenerateResource.cache
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.csproj.CopyComplete
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.exe
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.pdb
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\bin\Debug\VistaDeUsuario.exe.config
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\bin\Debug\VistaDeUsuario.exe
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\bin\Debug\VistaDeUsuario.pdb
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\bin\Debug\LogicaDeNegocio.dll
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\bin\Debug\AccesoADatos.dll
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\bin\Debug\LogicaDeNegocio.pdb
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\bin\Debug\AccesoADatos.pdb
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Buscador.resources
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Cliente.resources
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Empleado.resources
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.FacturaCliente.resources
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.FacturaProveedor.resources
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.LogIn.resources
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.NotaDeCredito.resources
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.OrdenDeCompra.resources
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.OrdenDePago.resources
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Principal.resources
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Producto.resources
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Properties.Resources.resources
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.Proveedor.resources
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.RemitoProveedor.resources
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.SolicitudDeCompra.resources
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.csproj.CopyComplete
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.exe
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.pdb
+C:\Users\rodri\Desktop\RFV\VistaDeUsuario\obj\Debug\VistaDeUsuario.BuscadorSDC.resources

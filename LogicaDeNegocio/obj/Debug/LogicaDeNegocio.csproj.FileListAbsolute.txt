@@ -1,0 +1,27 @@
+C:\Users\rodri\source\repos\RFV\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.dll
+C:\Users\rodri\source\repos\RFV\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.pdb
+C:\Users\rodri\source\repos\RFV\LogicaDeNegocio\bin\Debug\AccesoADatos.dll
+C:\Users\rodri\source\repos\RFV\LogicaDeNegocio\bin\Debug\AccesoADatos.pdb
+C:\Users\rodri\source\repos\RFV\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\RFV\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\RFV\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CopyComplete
+C:\Users\rodri\source\repos\RFV\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.dll
+C:\Users\rodri\source\repos\RFV\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.pdb
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.dll
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.pdb
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\LogicaDeNegocio\bin\Debug\AccesoADatos.dll
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\LogicaDeNegocio\bin\Debug\AccesoADatos.pdb
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csprojAssemblyReference.cache
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CopyComplete
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.dll
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.pdb
+C:\Users\rodri\Desktop\RFV\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.dll
+C:\Users\rodri\Desktop\RFV\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.pdb
+C:\Users\rodri\Desktop\RFV\LogicaDeNegocio\bin\Debug\AccesoADatos.dll
+C:\Users\rodri\Desktop\RFV\LogicaDeNegocio\bin\Debug\AccesoADatos.pdb
+C:\Users\rodri\Desktop\RFV\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\RFV\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\RFV\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CopyComplete
+C:\Users\rodri\Desktop\RFV\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.dll
+C:\Users\rodri\Desktop\RFV\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.pdb

@@ -1,0 +1,17 @@
+C:\Users\rodri\source\repos\RFV\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\rodri\source\repos\RFV\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\rodri\source\repos\RFV\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\RFV\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\rodri\source\repos\RFV\AccesoADatos\obj\Debug\AccesoADatos.pdb
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\AccesoADatos\obj\Debug\AccesoADatos.csprojAssemblyReference.cache
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\Fer\Desktop\Sistema final de Practicas\RFV\AccesoADatos\obj\Debug\AccesoADatos.pdb
+C:\Users\rodri\Desktop\RFV\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\rodri\Desktop\RFV\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\rodri\Desktop\RFV\AccesoADatos\obj\Debug\AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\RFV\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\RFV\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\rodri\Desktop\RFV\AccesoADatos\obj\Debug\AccesoADatos.pdb
